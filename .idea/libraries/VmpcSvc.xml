@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="VmpcSvc">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/vmpc_apply_info.zip!/" />
+      <root url="jar://$PROJECT_DIR$/vmpc_apply_info_1123.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
