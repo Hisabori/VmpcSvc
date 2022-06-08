@@ -4,7 +4,7 @@
 	  // ---------------------------------------------------------------
 	  // Program Name	: VPMC 회원정보수정 프로세스 	
 	  // Program Design : Han, Jeong-Hun	
-	  // Program Update : 2021-12-12
+	  // Program Update : 2021-12-12 edit 2022-6-9 am 04:16 @jeonghun han
 	// ---------------------------------------------------------------  
 	%>
  
@@ -25,7 +25,7 @@ if(id == null) {
 	
 	//로그인중 접근시 회원정보수정처리 진행    
 //수정화면에 입력된 데이터 받기    
-    request.setCharacterEncoding("euc-kr");
+    request.setCharacterEncoding("utf-8");
     String id1 = request.getParameter("id");
     String pwd = request.getParameter("pwd");
     String name = request.getParameter("name");
