@@ -14,7 +14,7 @@
 <head>
   <header>
    	<div class="wrapper">
-   	<h1>주문형 클라우드 pc시스템</h1>
+   	<h1>주문형 클라우드 pc시스템 - ecit spring boot</h1>
    	<nav>
    		<ul class="menu">
    			<li><a href="VMPC-MemberLogout.jsp"><%=id %>님 로그아웃</a>
