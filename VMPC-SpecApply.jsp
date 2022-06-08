@@ -1,10 +1,10 @@
-<%
 	  // ---------------------------------------------------------------
 	  // Program Name	: VPMC 사양 신청 	
-	  // Program Design : Han, Jeong-Hun	
-	  // Program Update : 2021-12-12
+	  // Program Design : Han, Jeong-Hun
+
+// Program Update : 2021-12-12
 	// ---------------------------------------------------------------  
-%>
+	  <%%>
 <%@ page contentType="text/html; charset=UTF-8" %>
 <%
 	request.setCharacterEncoding("UTF-8");
